@@ -1,0 +1,30 @@
+/* Global settings */
+* {
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+}
+
+/* External CSS */
+h3 {
+    color: forestgreen;
+}
+
+/* Element selector */
+h4 {
+    color: sienna;
+}
+
+/* Class selector */
+.myclass {
+    color: darkgoldenrod;
+}
+
+/* ID selector */
+#myid {
+    color: darkslateblue;
+}
+
+/* Group selector */
+h5, p {
+    color: darkolivegreen;
+}
